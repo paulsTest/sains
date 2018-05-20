@@ -1,0 +1,6 @@
+serverTask/service/DisplayService.class
+serverTask/service/ScrapeService.class
+serverTask/domain/GroceryDto.class
+serverTask/config/appConfig.class
+serverTask/service/AggregationService.class
+serverTask/SainsburysScraperApp.class
